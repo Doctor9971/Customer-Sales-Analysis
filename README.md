@@ -35,10 +35,10 @@ Please note that the dashboard is designed to provide a high-level overview and 
 Feel free to provide feedback or suggestions for improving the dashboard or adding new visualizations. Your input is valuable for enhancing the overall analysis experience.
 
 ## Repository Structure
-1.The data folder contains the original dataset used for the analysis.
-2.The charts folder includes the Excel files with charts created for each analysis aspect.
-3.The dashboard folder contains the Excel file with the interactive dashboard.
-4.The README.md file (this file) provides an overview of the project, analysis, and repository structure.
+1.The data folder contains the original dataset used for the analysis.  
+2.The charts folder includes the Excel files with charts created for each analysis aspect.  
+3.The dashboard folder contains the Excel file with the interactive dashboard.  
+4.The README.md file (this file) provides an overview of the project, analysis, and repository structure.  
 
 ## Getting Started
 To explore the analysis and charts, follow these steps:
