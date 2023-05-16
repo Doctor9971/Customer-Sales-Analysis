@@ -1,5 +1,5 @@
 ****
-Excel Analysis Project
+Customer-Sales-Analysis Analysis Project
 ****
 
 This repository contains the Excel analysis project that focuses on exploring and analyzing the provided dataset. The project aims to gain insights and visualize the data using various charts and techniques in Excel.
